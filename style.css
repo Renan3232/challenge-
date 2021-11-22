@@ -80,7 +80,7 @@ p {
 
 
 .container .picture{
-    background-image: url("./img/image-header-mobile.jpg"); 
+    background-image: url("./img/image-header-desktop.jpg"); 
     background-repeat: no-repeat;
     background-size: cover;
     height: 400px;
@@ -99,7 +99,7 @@ p {
 
 @media screen and (min-width: 768px)  {
 .container .picture {
-    background-image: url("./img/image-header-desktop.jpg");
+    background-image: url("./img/image-header-mobile.jpg");m  
     display:block;
     width: 50%;
     float: right;
