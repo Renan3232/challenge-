@@ -11,3 +11,6 @@ It was a basic cool challenge, where I could practice what I've learned using Ht
 Users should be able to:
 
 - View the optimal layout depending on their device's screen size
+
+### Links
+https://friendly-yonath-142aa9.netlify.app/
