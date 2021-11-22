@@ -14,3 +14,18 @@ Users should be able to:
 
 ### Links
 https://friendly-yonath-142aa9.netlify.app/
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Css Media Queries
+
+### What I learned
+During this project I could get a better understanding of Media queries and its use.
+Ex @media screen and (min-width: 768px).
+
+I'm also proud of the Overlay effect which was a bit challenging due to the first time doing it.
+
+
+
